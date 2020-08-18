@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "btrBdRMjZAWVHwOv7wkAkODotcflJ8kv7ZNrYpTJU5w9gQLI9HmOLQMEwBSsfckC8IFdzQo/MY9hYPUVkbQVoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\balindattila\\source\\repos\\ConsignmentShop\\ConsignmentShopLibrary\\ConsignmentShopLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
